@@ -3,3 +3,4 @@ This project is built on GCN for machine learning, which helps predict one day o
 
 HERE ARE THE FILES FOR YOUTO CUSTOMIZE YOUR OWN STOCK PREDICTOR:
 
+fetch_data_improved.py===========scrape trading data and contextual data of stocks included in the script, you can scrape the stock you want by changing the 'Ticker' list at the beigning of the script
