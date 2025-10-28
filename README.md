@@ -1,4 +1,4 @@
-# stock_directional-prediction_powered_by_gcn
+# stock_directional_prediction_powered_by_gcn
 This project is built on GCN for machine learning, which helps predict one day or 5 days ahead of stock direction. The steps to achieve such a goal involve contextual data gathering, hyperparameters tuning and feature engineering.
 ******MAKE SURE YOU HAVE PLACED THE MODEL FOLDERS AND STOCK DATA FILES NAMED AS "stock_data_10years_yyyymmdd.csv" UNDER THE SAME DIRECTORY WHEN YOU TUNE AND DEPLOY THIS MODEL ON YOUR COMUPTER******
 
