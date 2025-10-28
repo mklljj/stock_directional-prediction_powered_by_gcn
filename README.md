@@ -14,4 +14,3 @@ HERE ARE THE FILES FOR YOUTO CUSTOMIZE YOUR OWN STOCK PREDICTOR:
 
 ./tune_and_save_gnn.py==>my version of script to hyperparameters tune and feature engineer a new gcn model
 
-./requirements.txt==>dependencies adopted in this project
