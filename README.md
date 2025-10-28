@@ -12,5 +12,6 @@ HERE ARE THE FILES FOR YOUTO CUSTOMIZE YOUR OWN STOCK PREDICTOR:
 
 ./predict_all_tickers.py==>load the models in ./tuned_gnn_models/ to run prediction 1 day ahead
 
-./tune_and_save_gnn.py==>my version of script to hyperparameters tune and feature engineer a new gcn model
+./tune_and_save_gnn.py==>my version of script to hyperparameters tune and feature engineer a new gcn model for 1 day ahead prediction
 
+./tune_and_save_gnn_5D_leakage_fixed.py==>my version of script to hyperparameters tune and feature engineer a new gcn model for 5 days ahead prediction
